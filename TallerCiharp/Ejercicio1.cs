@@ -40,4 +40,3 @@ namespace TallerCiharp
             //Detener pantalla para ver resultados
             Console.ReadKey();
     }
-}
