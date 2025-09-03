@@ -37,6 +37,7 @@ namespace TallerCiharp
           
             Console.WriteLine($"El Area del Triangulo segun lados {a}, {b}, {c} es: {area} m2");
 
+
             //Detener pantalla para ver resultados
             Console.ReadKey();
     }
